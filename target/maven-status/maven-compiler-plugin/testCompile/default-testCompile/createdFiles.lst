@@ -1,0 +1,8 @@
+com/qa/testcases/BankManagerLoginTest.class
+com/qa/utilities/ExcelReader.class
+com/qa/base/TestBase.class
+com/qa/testcases/OpenAccountTest.class
+com/qa/listeneres/CustomListeners.class
+com/qa/utilities/TestUtil.class
+com/qa/utilities/ExtentManager.class
+com/qa/testcases/AddCustomerTest.class

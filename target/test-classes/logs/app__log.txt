@@ -1,0 +1,5 @@
+INFO    2021-08-17 18:30:20,924 [main] com.qa.base.TestBase  - Config File Loaded
+INFO    2021-08-17 18:30:20,925 [main] com.qa.base.TestBase  - OR File Loaded
+INFO    2021-08-17 18:30:27,020 [main] com.qa.base.TestBase  - Launching the Chrome Browser
+INFO    2021-08-17 18:30:28,017 [main] com.qa.base.TestBase  - Navigated to http://www.way2automation.com/angularjs-protractor/banking/#/login
+INFO    2021-08-17 18:30:32,978 [main] com.qa.base.TestBase  - Test Execution successfully !!!
