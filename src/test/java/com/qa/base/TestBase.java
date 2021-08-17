@@ -34,7 +34,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 public class TestBase {
     /*
      * WebDriver Mailing logs DB Excel properties
-     *
+     * git and github
      */
 
     public static WebDriver driver;
